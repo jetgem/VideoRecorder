@@ -1,0 +1,18 @@
+PODS:
+  - AMPopTip (0.9)
+  - MBProgressHUD (0.9.1)
+  - PBJVision (0.4.1)
+
+DEPENDENCIES:
+  - AMPopTip
+  - MBProgressHUD
+  - PBJVision
+
+SPEC CHECKSUMS:
+  AMPopTip: 28545f7c437add3b2b19f355dd6e695895499a50
+  MBProgressHUD: c47f2c166c126cf2ce36498d80f33e754d4e93ad
+  PBJVision: 1d7fb2d44d41eff64cd641ba2b63024da9ab2deb
+
+PODFILE CHECKSUM: 982fe56c395f13f1063074868367bd5f1d9070b2
+
+COCOAPODS: 1.2.1
